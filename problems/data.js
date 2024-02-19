@@ -51,9 +51,3 @@ let inventory = [{"id":1,"car_make":"Lincoln","car_model":"Navigator","car_year"
 {"id":50,"car_make":"Lincoln","car_model":"Town Car","car_year":1999}];
 
 module.exports = inventory;
-
-
-
-
-
-
